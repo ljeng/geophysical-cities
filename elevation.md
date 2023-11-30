@@ -6,3 +6,6 @@ High mountain peaks surround Innsbruck. It's a hub for winter sports.
 
 ![elevation](assets/image/elevation.png)
 Elevation map. A cool climate characterizes the elevation.
+
+![Cross-sectional elevation map of the Alps](https://www.evolene-geologie.ch/data/images/14_map-section_Alp_Valais.jpg)
+Cross-sectional elevation map of the Alps.
