@@ -8,6 +8,10 @@ layout: default
 
 High-altitude terrain characterizes the Alps' topography. It creates an environment conducive to avalanches. Snow accumulates on these slopes during the winter months. Avalanches occur when the conditions are right - such as temperature fluctuations or human-triggered disturbances - descending rapidly down the mountain slopes.
 
+### Organization and Siting of Older Villages
+
+Villages are situated on elevated plateaus. Traditional land use planning takes into account the area's natural hazards. Architects design villages to avoid vulnerable zones. Architects place critical infrastructure strategically. Forested areas act as a natural break.
+
 ### Avalanche-Prone Areas
 ![St. Anton](https://www.igluski.com/blog/image.axd?picture=/St%20Anton/skiing-in-st-anton.jpg)
 

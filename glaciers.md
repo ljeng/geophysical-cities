@@ -145,3 +145,7 @@ layout: default
     }
 </script>
 </html>
+
+### Geology
+
+Glaciers in areas with sedimentary rocks erode and transport sediment. They give the ice a distinct color due to rock particles. These rocks have undergone heat and pressure. They reach their altered state. Glaciers in regions with metamorphic rocks have a different erosional pattern. These rocks have varying hardness. Igneous rocks impact the glacier dynamics due to their distinctive physical properties. They resist erosion. Some glaciers overlie igneous rocks.
