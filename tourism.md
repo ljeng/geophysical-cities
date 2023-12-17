@@ -2,11 +2,10 @@
 layout: default
 ---
 <html>
-<video width="640" height="480" controls>
-  <source src="interlaken.mp4" type="video/mp4">
-</video>
-<br>
-Please use Safari browser if the video doesn't play.
+    <video width="640" height="480" controls>
+        <source src="assets/video/interlaken.mp4" type="video/mp4">
+    </video>
+    <br>
 </html>
 ![Bavarian Alps](https://www.tripsavvy.com/thmb/o-5MKHdJuxFdAvKieI8G-Edn15c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-866749682-5c813562c9e77c0001e98fb4.jpg)
 ![Kleinarl](https://img2.oastatic.com/img2/59759218/834x417r/t.jpg)

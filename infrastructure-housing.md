@@ -1,4 +1,8 @@
-# Infrastructures and Housing
+---
+layout: default
+---
+
+# Infrastructures & Housing
 
 ### How It Will Change
 
