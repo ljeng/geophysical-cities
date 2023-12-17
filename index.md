@@ -14,10 +14,24 @@ layout: default
         </style>
     </head>
     <body>
-        <h1>Where the Alps Are</h1>
-        <img src="https://www.euratlas.net/geography/world/mountains/alps.jpg">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Europe_Alps_locator.png">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Alps_2007-03-13_10.10UTC_1px-250m.jpg">
+        <iframe title="Which Countries Are the Alps In?" class="map" aria-label="Map" id="datawrapper-chart-l3UG6" src="https://datawrapper.dwcdn.net/l3UG6/1/" scrolling="no" frameborder="0" height="411" data-external="1"></iframe>
+        <iframe title="Where the Alps Are in Europe" class="map" aria-label="Map" id="datawrapper-chart-bPwW3" src="https://datawrapper.dwcdn.net/bPwW3/1/" scrolling="no" frameborder="0" height="577" data-external="1"></iframe>
+        <script type="text/javascript">
+            !function() {
+                "use strict";
+                window.addEventListener("message", (function(a) {
+                    if (void 0 !== a.data["datawrapper-height"]) {
+                        var e = document.querySelectorAll("iframe");
+                        for (var t in a.data["datawrapper-height"])
+                            for (var r = 0; r < e.length; r++)
+                                if (e[r].contentWindow === a.source) {
+                                    var i = a.data["datawrapper-height"][t] + "px";
+                                    e[r].style.height = i
+                                }
+                    }
+                }))
+            } ();
+        </script>
         <img src="https://journals.openedition.org/cybergeo/docannexe/image/25478/img-15-small580.jpg">
         Alexander Humboldt's cross-section of Lapland and the Alps.
     </body>
