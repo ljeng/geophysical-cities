@@ -12,6 +12,8 @@ High mountain peaks surround Innsbruck. It's a hub for winter sports.
 
 Elevation map. A cool climate characterizes the elevation.
 
+Civil engineers optimize designs for safety. People settle in areas with favorable topography. Elevation maps indicate where cities are established. We know the Alps for their recreational opportunities. They attract tourists.
+
 ![Cross-sectional elevation map of the Alps](https://www.evolene-geologie.ch/data/images/14_map-section_Alp_Valais.jpg)
 
 Cross-sectional elevation map of the Alps.

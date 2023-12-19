@@ -28,7 +28,6 @@ layout: default
                 </td>
             </tr>
         </table>
-        <img src="https://media.springernature.com/full/springer-static/image/prt%3A978-90-481-2642-2%2F17/MediaObjects/978-90-481-2642-2_17_Part_Fig5-453_HTML.gif">
     </body>
     <script>
         const glacierData = [
@@ -91,3 +90,7 @@ layout: default
         }
     </script>
 </html>
+
+![rock glaciers](https://media.springernature.com/full/springer-static/image/prt%3A978-90-481-2642-2%2F17/MediaObjects/978-90-481-2642-2_17_Part_Fig5-453_HTML.gif)
+
+*Rock glaciers*

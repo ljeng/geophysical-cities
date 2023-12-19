@@ -8,5 +8,5 @@ layout: default
     <video width="640" height="480" controls>
         <source src="assets/video/interlaken.mp4" type="video/mp4">
     </video>
-    <br>
+    <figcaption>Insane Breathtaking Cliff Hiking in Interlaken, Switzerland</figcaption>
 </html>
