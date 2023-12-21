@@ -12,6 +12,16 @@ High-altitude terrain characterizes the Alps' topography. It creates an environm
 
 Villages are situated on elevated plateaus. Traditional land use planning takes into account the area's natural hazards. Architects design villages to avoid vulnerable zones. Architects place critical infrastructure strategically. Forested areas act as a natural break.
 
+<html>
+    <head>
+        <link rel="stylesheet" href="assets/css/style.scss">
+    </head>
+    <body>
+        <iframe title="Prehistoric Settlements" class="map" aria-label="Map" id="datawrapper-chart-G5y8O" src="https://datawrapper.dwcdn.net/G5y8O/1/" scrolling="no" frameborder="0" height="650" data-external="1"></iframe>
+        <script type="text/javascript" src="assets/script.js"></script>
+    </body>
+</html>
+
 ### Building Avalanche-Safe Villages
 
 Villages in avalanche-prone areas are strategically planned to avoid vulnerable zones. Architects design villages to minimize avalanche risks. Traditional land use planning considers natural hazards, and architects strategically place critical infrastructure. Planting trees is utilized as a natural break to impact avalanche paths. Steep slopes increase avalanche risks, especially in certain conditions. Construction vulnerability in high-risk zones prompts architects to develop building codes that minimize vulnerability to avalanches through avalanche barrier construction in strategic locations. A combination of proactive measures and effective response systems minimize avalanche impact on human lives. This is the goal.

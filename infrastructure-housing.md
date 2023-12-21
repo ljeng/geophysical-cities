@@ -4,6 +4,10 @@ layout: default
 
 # Infrastructure & Housing
 
+![chalet](https://www.skiingproperty.com/wp-content/uploads/2020/08/what-is-a-french-chalet-1536x945.jpg.webp)
+
+*A chalet is a type of home found in Europe's alpine region. The extensive sloping roof with eaves sets it apart from a cabin.*
+
 Issues arise around ski resorts' environmental impact. We need sustainable housing while balancing economic growth with environmental preservation. Warmer temperatures impact snow reliability. They affect housing in Alpine regions. Architects design housing that adapts to changing climate conditions. They incorporate sustainable technology to minimize the environmental impact. Architects develop eco-friendly transportation designs. They plan for bicycle-friendly urban layouts. Architects working with ski resorts diversify offerings beyond winter sports.
 
 ### How It Will Change
