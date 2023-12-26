@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<html lang="en">
+<html>
     <head>
         <link rel="stylesheet" href="assets/css/style.scss">
     </head>
